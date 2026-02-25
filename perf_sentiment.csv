@@ -1,0 +1,6 @@
+,pnl_sum,pnl_sum,pnl_sum,win_rate,trade_count
+,mean,median,std,mean,mean
+classification,,,,,
+fear,9387.5027,229.9931,50956.9924,0.3193,85.2368
+greed,5830.1195,130.4871,40369.7703,0.3468,55.8185
+neutral,2017.7498,87.7522,5609.7005,0.3125,74.4865
