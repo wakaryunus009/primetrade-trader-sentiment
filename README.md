@@ -6,8 +6,8 @@
 
 ## **Executive Summary**
 Analyzed **{X}K** Hyperliquid trades vs Bitcoin Fear/Greed sentiment. **Key findings:**
-- Greed days: **+{Y}%** higher PnL, high volatility
-- Fear days: Low-leverage traders **+{Z}%** outperform
+- Greed days: higher PnL, high volatility
+- Fear days: Low-leverage traders outperform
 - **2 actionable strategies** for sentiment-based trading
 
 ##  **Quick Start**
@@ -26,10 +26,10 @@ pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 
 Key Outputs
-Metric  	Fear	Greed	Neutral
-Avg PnL	       -0.45	+0.32	0.12
-Win Rate	42%	58%	51%
-Volatility	Low	High	Med
+Metric  	      Fear	 Greed	 Neutral
+Avg PnL	        -0.45  +0.32	  0.12
+Win Rate	       42%	  58% 	  51%
+Volatility	     Low	  High	  Med
 Charts: Dashboard | Segments
 
 Strategies
